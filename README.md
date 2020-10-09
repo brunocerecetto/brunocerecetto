@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+To be honest, I don't know what to put here yet 😅
+
+![](giphy.gif)
+
 <!--
 **brunocerecetto/brunocerecetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
