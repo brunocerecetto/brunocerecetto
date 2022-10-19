@@ -29,6 +29,8 @@ I consider myself self-taught and I'm always looking for new challenges and tech
 
 ### Badges
 
+[![@brunocerecetto's Holopin board](https://holopin.me/brunocerecetto)](https://holopin.io/@brunocerecetto)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/brunocerecetto"><img src="https://github-readme-stats.vercel.app/api?username=brunocerecetto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brunocerecetto's GitHub stats" /></a>
